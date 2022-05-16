@@ -7,10 +7,10 @@ https://youtu.be/uIThynzcjJk
 ## Running Coronavirus Analyzer
 
 ### Method 1: download and run jar file at:
-https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/Product/CoronavirusAnalyzer.jar
+https://github.com/vincentzhang15/coronavirus-analyzer/blob/main/2021-04-03_CoronavirusAnalyzer/Product/CoronavirusAnalyzer.jar
 
 ### Method 2: download folder /CoronavirusAnalyzer
-https://github.com/vincentzhang15/projects-for-school/tree/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/CoronavirusAnalyzer
+https://github.com/vincentzhang15/coronavirus-analyzer/tree/main/2021-04-03_CoronavirusAnalyzer/CoronavirusAnalyzer
 
 1. Unzip class.zip
 2. Run /build/build.bat
@@ -24,7 +24,7 @@ Files ranked by importance.
 
 
 ### /Documentation/CriterionC_Development.pdf
-https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionC_Development.pdf
+https://github.com/vincentzhang15/coronavirus-analyzer/blob/main/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionC_Development.pdf
 
 Documents programming techniques and concepts used in the project.
 - Data Structure & Abstract Data Type (ADT):
@@ -45,27 +45,27 @@ Documents programming techniques and concepts used in the project.
 
 
 ### /Documentation/AppendixE_MachineLearningLogisticRegression.pdf
-https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/Documentation/AppendixE_MachineLearningLogisticRegression.pdf
+https://github.com/vincentzhang15/coronavirus-analyzer/blob/main/2021-04-03_CoronavirusAnalyzer/Documentation/AppendixE_MachineLearningLogisticRegression.pdf
 
 - Highlights the extensibility of this project powered by machine learning
 - Showcases translatable example implementing machine learning
 
 
 ### /Documentation/AppendixD_DijkstraAlgorithm.pdf
-https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/Documentation/AppendixD_DijkstraAlgorithm.pdf
+https://github.com/vincentzhang15/coronavirus-analyzer/blob/main/2021-04-03_CoronavirusAnalyzer/Documentation/AppendixD_DijkstraAlgorithm.pdf
 
 - Highlights the extensibility of this project through Dijkstra's algorithm
 - Showcases translatable example implementing Dijkstra's algorithm
 
 
 ### /Documentation/CriterionE_Evaluation.pdf
-https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionE_Evaluation.pdf
+https://github.com/vincentzhang15/coronavirus-analyzer/blob/main/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionE_Evaluation.pdf
 
 - Explains the relevance of extending this project with machine learning and Dijkstra's algorithm
 
 
 ### /Documentation/CriterionB_Design.pdf
-https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionB_Design.pdf
+https://github.com/vincentzhang15/coronavirus-analyzer/blob/main/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionB_Design.pdf
 
 - initial layout designs
 - flowcharts
@@ -75,5 +75,5 @@ https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/202
 
 
 ### /Documentation/CriterionB_RecordOfTasks.pdf
-https://github.com/vincentzhang15/projects-for-school/blob/main/2021_Grade12/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionB_RecordOfTasks.pdf
+https://github.com/vincentzhang15/coronavirus-analyzer/blob/main/2021-04-03_CoronavirusAnalyzer/Documentation/CriterionB_RecordOfTasks.pdf
 - record of events in developping the project from scratch
